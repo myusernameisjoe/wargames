@@ -1,5 +1,31 @@
 # wargames
 
+## Description
+
+The wargames project leverages Reinforcement Learning (RL) and Genetic Algorithms (GA) for optimization in simulated strategic environments. This framework aims to learn and adapt from historical outcomes, optimizing decision-making and resource allocation dynamically.
+
+## Motivation
+
+Combining RL and GA harnesses the adaptability of learning from an environment with the robustness of evolutionary search strategies, making it ideal for complex optimization problems in strategic simulations.
+
+## Theoretical Background
+
+### Reinforcement Learning (RL)
+
+RL involves an agent learning to make decisions to achieve goals, based on feedback from the environment.
+
+- **Quick Resource**: [Reinforcement Learning](https://www.youtube.com/watch?v=JgvyzIkgxF0) on YouTube provides a concise overview.
+
+- **Cheat Sheet**: [RL Cheat Sheet](https://medium.com/@SmartLabAI/reinforcement-learning-cheat-sheet-2f9453df7651) for a quick reference.
+
+### Genetic Algorithms (GA)
+
+GAs are based on the principles of natural selection and genetics, used for solving optimization and search problems.
+
+- **Quick Resource**: [Genetic Algorithms Explained](https://www.youtube.com/watch?v=9zfeTw-uFCw) on YouTube offers a straightforward introduction.
+
+- **Cheat Sheet**: [GA Cheat Sheet](https://www.tutorialspoint.com/genetic_algorithms/genetic_algorithms_quick_guide.htm) for essentials.
+
 
 ## Getting Started
 
